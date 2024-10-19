@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "attributes": {
+      "name": "Glowberry Drink",
+      "price": 2,
+      "src": "https://greekdeligoods.com/wp-content/uploads/2023/10/Prime-Hydration-Glowberry-500ml.jpg"
+    }
+  },
+  {
+    "id": 1,
+    "attributes": {
+      "name": "Barcelona Drink",
+      "price": 3,
+      "src": "https://greekdeligoods.com/wp-content/uploads/2024/09/EU-Prime-Hydration-Barcelona-500ml.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "attributes": {
+      "name": "Cherry Freeze Drink",
+      "price": 4,
+      "src": "https://greekdeligoods.com/wp-content/uploads/2024/03/Prime-Cherry-Freeze-500ml.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "attributes": {
+      "name": "Bayern Munich Drink",
+      "price": 5,
+      "src": "https://greekdeligoods.com/wp-content/uploads/2024/06/EU-Prime-Hydration-Fc-Bayern-Munich-500ml.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "attributes": {
+      "name": "Meta Moon Drink",
+      "price": 2.5,
+      "src": "https://greekdeligoods.com/wp-content/uploads/2024/08/EU-Prime-Hydration-Meta-Moon-500ml.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "attributes": {
+      "name": "UFC 300 Drink",
+      "price": 6,
+      "src": "https://greekdeligoods.com/wp-content/uploads/2024/06/Prime-Hydration-UFC-300-500ml.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "attributes": {
+      "name": "WWE Drink",
+      "price": 7,
+      "src": "https://greekdeligoods.com/wp-content/uploads/2024/09/Prime-Hydration-WWE-500ml.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "attributes": {
+      "name": "Lemonade Drink",
+      "price": 1.5,
+      "src": "https://greekdeligoods.com/wp-content/uploads/2023/08/Prime-Hydration-By-Logan-Paul-KSI-Lemonade-500ml.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "attributes": {
+      "name": "Glowberry Drink Ice",
+      "price": 3.5,
+      "src": "https://greekdeligoods.com/wp-content/uploads/2023/10/Prime-Hydration-Glowberry-500ml-1.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "attributes": {
+      "name": "Ice Pop Drink",
+      "price": 8,
+      "src": "https://greekdeligoods.com/wp-content/uploads/2023/05/PRIME-HYDRATION-ICE-POP-500-ML.jpg"
+    }
+  }
+]
